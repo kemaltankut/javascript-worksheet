@@ -53,7 +53,7 @@ if(password==1234){
 else{
     console.log("Şifre Yanlış");
 }
-//burada password yani şifre adında bir const oluşturup değerini 1232 verdim sonra if bloğunda değerini farklı tanımladım ve içindeki kod çalışmadı o çalışmadığından hemen altındaki else bloğunun içindeki kod çalıştı
+//burada password yani şifre adında bir const oluşturup değerini 1 verdim sonra if bloğunda değerini farklı tanımladım ve içindeki kod çalışmadı o çalışmadığından hemen altındaki else bloğunun içindeki kod çalıştı
 
 const proccess = "1";
 
