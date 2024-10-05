@@ -1,10 +1,10 @@
 // Fonskiyon tanımlama
 
-// function merhaba(name="Bilgi yok",age = "Bilgi yok"){
-//     // if (typeof name==="undefined") name = "bilgi yok;" 
-//     // if (typeof age==="undefined") age = "bilgi yok"
-//     console.log(`name: ${name} Yaş: ${age}`);
-// } 
+ function merhaba(name="Bilgi yok",age = "Bilgi yok"){
+    //   if (typeof name==="undefined") name = "bilgi yok;" 
+    //   if (typeof age==="undefined") age = "bilgi yok"
+     console.log(`name: ${name} Yaş: ${age}`);
+ } 
 
 // merhaba("Kemal",18); //fonksiyon çağrısı
 // merhaba();//burada bilgi vermesek bile if bloğunu kullanarak sonucun bilgi yok şeklinde çıkmasını sağladık. ama if ile uğraşmak yerine fonskiyonu tanımlarken varsayılan bir değer atarsak bilgi verilmediğinde varsayılan değerimiz çıakcaktır
